@@ -1,0 +1,6 @@
+Concepts covered include:
+1. DOM [getElementById (), querySelector()]
+2. Variables [let, const]
+3. Function [regular function, arrow function]
+4. DOM elemtest [element.classList, classList.toggle(), classList.add(), classList.remove()]
+5. Event Listeners [click]
